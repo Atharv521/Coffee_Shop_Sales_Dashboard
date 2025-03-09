@@ -40,7 +40,7 @@ This project is an **interactive Excel Dashboard** designed to visualize and ana
 ## 📥 Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+https://github.com/Atharv521/Coffee_Shop_Sales_Dashboard.git
    ```
 2. Open the `.xlsx` file in **Microsoft Excel** or an alternative spreadsheet application that supports advanced Excel features.
 
